@@ -1,0 +1,11 @@
+/* .mb-3{
+    border: none;
+    width: 100%;
+    border-bottom: 1px solid;
+    padding-bottom: 25px;
+} */
+.card-img{
+    height: 245px;
+    margin-top: 10px;
+    margin-bottom: 10px
+}

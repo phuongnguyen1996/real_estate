@@ -1,0 +1,25 @@
+.container{
+    height: auto;
+    background-color: #fff;
+}
+
+app-menu{
+    position: absolute;
+    top: 120px;
+    width: 100%;
+    left: 0;
+}
+
+.content{
+    position: absolute;
+    top: 200px;
+    width: 100%;
+    height: auto;
+}
+
+app-footer{
+    position: absolute;
+    top: 3120px;
+    width: 100%;
+    left: 0;
+}

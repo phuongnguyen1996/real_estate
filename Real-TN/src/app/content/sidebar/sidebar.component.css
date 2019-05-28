@@ -1,0 +1,27 @@
+.sidebar{
+    padding: 15px 0 0;
+    color: #fff;
+}
+.top{
+    background: #1d951b;
+    border-radius: 10px 10px 0 0;
+    padding: 0 20px;
+}
+.top .fas{
+    font-size: 20px;
+    line-height: inherit;
+    margin: 5px 10px 5px 0;
+}
+.top span{
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 5px;
+}
+.search{
+    border: 1px solid #b0aeae;
+    border-radius: 0px 6px 6px 6px;
+    padding: 15px
+}
+.search .custom-select{
+    margin-bottom: 15px;
+}
